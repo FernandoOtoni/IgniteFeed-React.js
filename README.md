@@ -1,10 +1,8 @@
 # Post-Forum-React.js
 
-Forum
-
 Primeiro projeto utilizando React.js
 
-Uma pagina completa para interagir com outros desenvolvedores podendo comentar, curtir, postar e excluir comentarios.
+Pagina completa para interagir com outros desenvolvedores podendo comentar, curtir, postar e excluir comentarios.
 
 ![Page](https://user-images.githubusercontent.com/102544229/180790557-773353cd-312c-4d89-a21f-f9a16de37f52.jpg)
 
