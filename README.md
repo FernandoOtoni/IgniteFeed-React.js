@@ -1,4 +1,4 @@
-# Post-Forum-React.js
+# IgniteFeed-React.js
 
 Primeiro projeto utilizando React.js
 
